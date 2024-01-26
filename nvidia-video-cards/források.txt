@@ -10,4 +10,4 @@ NVidia:
 2070: https://www.amazon.com/Gigabyte-GeForce-Windforce-Graphics-GV-N2070WF3-8GC/dp/B07JBTS8HR/ref=sr_1_1?crid=12LIJ4E8AJIDO&keywords=geforce+rtx+2070&qid=1706271973&sprefix=geforce+rtx+2070+%2Caps%2C173&sr=8-1
 2060 super: https://www.amazon.com/maxsun-2060-Computer-Graphics-Performance/dp/B0BYYRKLDS/ref=sr_1_3?crid=4TT8D1SEEKC3&keywords=geforce+rtx+2060+super&qid=1706272194&sprefix=geforce+rtx+200+super%2Caps%2C182&sr=8-3
 2060: https://www.amazon.com/MSI-GeForce-RTX-2060-Architecture/dp/B07MQ36Z6L/ref=sr_1_8?crid=VW3GKN8A3XIE&keywords=geforce+rtx+2060&qid=1706272133&sprefix=geforce+rtx+2060+%2Caps%2C167&sr=8-8
-thermal paste: https://www.bestbyte.hu/hutozsir/cooler-master-ic-essential-e2-arany-hutopaszta-p52592.html?ak=0
+
