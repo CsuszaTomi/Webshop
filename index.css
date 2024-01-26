@@ -10,31 +10,35 @@ p{
     font-family: Georgia;
 }
 body{
-    padding-left: 0px;
     background-image: url("abstract-5035370_1920.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
 nav{
-    margin-top: 20px;
+    padding-top: 10px;
     margin-right: 100px;
     margin-left: 100px;
     border: 2px solid rgb(69, 69, 69);
     text-align: center;
     border-radius: 20px;
-    padding: 30px;
     background: transparent;
     backdrop-filter: blur(60px);
+    padding-bottom: 0;
 }
 
 a{
+    padding-left: 30px;
+    padding-right: 30px;
+    vertical-align: middle;
     text-decoration: none;
     color: white;
     font-size: xx-large;
-    padding-left: 60px;
-    margin-right: 60px;
+    padding-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
 }
+
 #szovegdoboz{
     border-radius: 10px;
     border: 2px solid rgb(69, 69, 69);
