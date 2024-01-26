@@ -1,0 +1,27 @@
+Intel procik:
+-i5 10600K - https://pepita.hu/processzorok-c2789/intel-core-i5-10600k-41ghz-lga1200-tray-p4930517?from=list&pid=4930517
+-i5 11400 - https://pepita.hu/processzorok-c2789/intel-cpu-s1200-core-i5-11400-26ghz-12mb-cache-box-p10480573?from=list&pid=10480573
+-i5 11600K -  https://pepita.hu/processzorok-c2789/intel-core-i5-11600k-39ghz-s1200-processzor-tray-p10140666?from=list&pid=10140666
+-i5 12400F - https://pepita.hu/processzorok-c2789/intel-core-i5-12400f-6-mag-25ghz-lga-1700-box-p4806749?from=list&pid=4806749
+-i5 12600KF - https://pepita.hu/processzorok-c2789?adhid=4403104&msclkid=49b873861ad619a1e5041635bbe2fe41&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20Standard%20-%20Marketplace%20-%20CPC%20-%20HU&utm_term=4586956361054980&utm_content=Ad%20group%20%231#ref
+-i5 13400F - https://pepita.hu/processzorok-c2789/intel-core-i5-13400f-20-mb-smart-cache-processzor-p6807608?from=list&pid=6807608
+-i7 10700F - https://pepita.hu/processzorok-c2789/intel-core-i7-10700f-290ghz-lga-1200-box-p4631703?msclkid=5255d4aba7de1098ef7bb1180680debb&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping%20-%20Standard%20-%20Marketplace%20-%20CPC%20-%20HU&utm_term=4586956361054980&utm_content=Ad%20group%20%231#ref
+-i7 11700F - https://pepita.hu/processzorok-c2789/intel-cpu-s1200-core-i7-11700f-25ghz-16mb-cache-box-novga-bx8070811700f-p1712722?from=list&pid=1712722
+
+AMD procik:
+- AMD RYZEN 5-5600X - https://pepita.hu/processzorok-c2789/amd-ryzen-5-5600x-p4407105?from=list&pid=4407105
+- AMD Ryzen 5-7600X - https://pepita.hu/processzorok-c2789/amd-ryzen-5-7600x-47ghz-socket-am5-dobozos-100-100000593wof-p9032166?from=list&pid=9032166
+- AMD RYZEN 7-5700X - https://pepita.hu/processzorok-c2789/amd-ryzen-7-5700x-p4403256?from=list&pid=4403256
+- AMD RYZEN 5-5500 - https://pepita.hu/processzorok-c2789/amd-ryzen-5-5500-p4403261?from=list&pid=4403261
+- AMD Ryzen 3-4300G - https://pepita.hu/processzorok-c2789/cpu-amd-am4-ryzen-3-4300g-38ghz-p9119567?from=list&pid=9119567
+- AMD Ryzen 3-3200G - https://pepita.hu/processzorok-c2789/amd-ryzen-3-3200g-4-ghz-socket-am4-dobozos-yd3200c5fhbox-p9032074?from=list&pid=9032074
+- AMD RYZEN 5-4500 - https://pepita.hu/processzorok-c2789/amd-ryzen-5-4500-p4403228?from=list&pid=4403228
+- AMD Ryzen 7-7700 - https://pepita.hu/processzorok-c2789/amd-ryzen-7-7700-processzor-38-ghz-32-mb-l3-p6523972?from=list&pid=6523972
+
+Intel gpuk:
+- ASRock Intel Arc A580 - https://pepita.hu/videokartyak-c2791/asrock-intel-arc-a580-challenger-8gb-oc-a580-cl-8go-p9281792?from=list&pid=9281792
+- Sparkle Intel Arc A380 - https://pepita.hu/videokartyak-c2791/sparkle-intel-arc-a380-6gb-gddr6-elf-videokartya-p8809975?from=list&pid=8809975
+- Sparkle Intel Arc A750 - https://pepita.hu/videokartyak-c2791/sparkle-intel-arc-a750-8gb-gddr6-orcoc-edition-videokartya-p8809976?from=list&pid=8809976
+- ASRock Intel Arc A770 - https://pepita.hu/videokartyak-c2791/asrock-intel-arc-a770-16gb-gddr6-phantom-gaming-oc-videokartya-p8336887?from=list&pid=8336887
+
+
