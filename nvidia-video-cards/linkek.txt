@@ -1,0 +1,49 @@
+Nvidia
+
+GTX 750 Ti:
+https://pepita.hu/videokartyak-c2791/afox-geforce-gtx-750-ti-4gb-gddr5-videokartya-p7872445
+GTX 770:
+https://www.amazon.com/EVGA-GeForce-SuperClocked-Graphics-02G-P4-2774-KR/dp/B00CZIQXBA/ref=sr_1_5?crid=2GZA1I7SY53QX&keywords=GTX+770&qid=1706272588&sprefix=gtx+770%2Caps%2C165&sr=8-5
+GTX 780:
+https://www.amazon.com/ASUS-GTX780-DC2OC-3GD5-graphics-card-GTX/dp/B00IF102GI/ref=sr_1_1?crid=2ZUMO3T2ETHT5&keywords=GTX+780&qid=1706272565&sprefix=gtx+70%2Caps%2C163&sr=8-1
+GTX 980:
+https://www.jofogas.hu/komarom_esztergom/MSI_Gaming_X_Gtx_980_OC_4GB_144086260.htm
+GTX 1050 Ti:
+https://pepita.hu/videokartyak-c2791/afox-geforce-gtx-1050-ti-4gb-gddr5-videokartya-p11642548
+GTX 1060 Ti:
+https://www.jofogas.hu/budapest/Gigabyte_Gtx_1060_145078836.htm
+GTX 1070 Ti:
+https://www.jofogas.hu/csongrad/Asus_ROG_Strix_Geforce_Gtx_1070_Ti_144962615.htm
+GTX 1080 Ti:
+https://www.jofogas.hu/budapest/Asus_Geforce_Gtx_1080_Ti_Strix_OC_videokartya__11GB_Gddr5X__352_bit_145075556.htm
+GTX 1650 Super:
+https://www.jofogas.hu/budapest/Gigabyte_Gtx_1650_Super_4Gb_ujszeru__145065654.htm
+GTX 1650 4GB:
+https://www.jofogas.hu/budapest/Msi_Ventus_Geforce_Gtx_1650_4GB_OC_Gddr5_Dual_128bit_Videokartya_145040576.htm
+Quadro 5000:
+https://www.amazon.com/Nvidia-320-bit-Express-Certified-Refurbished/dp/B07MW8F1SF/ref=sr_1_3?keywords=Nvidia+Quadro+5000&qid=1706272735&sr=8-3
+Quadro K4000:
+https://www.amazon.com/NVIDIA-Quadro-K4000-Graphics-PNY/dp/B00BLTE7X0/ref=sr_1_2?crid=S22TIF5JKCD7&keywords=nvidia+quadro+k4000&qid=1706272952&sprefix=nvidia+quadro+k4000%2Caps%2C175&sr=8-2
+
+AMD
+
+Radeon R9 Fury X:
+https://www.amazon.com/Sapphire-Radeon-PCI-Express-Graphics-21246-00-40G/dp/B01012TLSS
+Radeon R9 280X:
+https://www.jofogas.hu/hajdu_bihar/Ati_radeon_R9_280x_Vaporx_VGA_hibatlan_allapotban__Postazom_is__144317359.htm
+Radeon RX 480:
+https://www.alza.hu/gaming/amd-radeon-rx-480-8-gigabajt
+Radeon RX 580:
+https://www.emag.hu/radeon-rx-580-videokartya-8gb-gddr5-256-bit-radeon-rx580-graphics/pd/DMWSDBYBM/
+Radeon RX 590:
+https://www.emag.hu/xfx-radeon-rx-590-fatboy-videokartya-8gb-gddr5-256-bit-rx-590p8dfd6/pd/D7XH64BBM/
+Radeon RX 5500 XT:
+https://www.amazon.com/51RISC-Graphics-128bit-DisplayPort-Desktop/dp/B0BV6C2638/ref=sr_1_1_sspa?keywords=radeon%2Brx%2B5500&qid=1706271893&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+Radeon RX 5600 XT:
+https://www.amazon.com/XFX-Thicc-PCI-Express-Graphics-RX-56XT6TBD8/dp/B083G2LHNM/ref=sr_1_3?keywords=amd+rx+5600+xt&qid=1706272070&sr=8-3
+Radeon RX 5700 XT:
+https://www.jofogas.hu/budapest/Gigabyte_Aorus_Radeon_RX_5700_XT_8GB_Gddr6_256bit_Videokartya_144936086.htm
+Radeon RX 6600:
+https://pepita.hu/videokartyak-c2791/asus-radeon-rx-6600-8gb-gddr6-128bit-p4897886?from=list&pid=4897886
+Radeon RX Vega 56:
+https://www.emag.hu/sapphire-pulse-radeon-rx-vega-56-videokartya-8gb-gddr5-2084-bit-11276-02-40g/pd/DXZ09FBBM/
