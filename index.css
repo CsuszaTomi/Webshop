@@ -3,6 +3,7 @@ body{
     background-attachment: fixed;
     color: darkgray;
     background-image: url("abstract-5035370_1920.jpg");
+    background-size: cover;
 }
 
 nav{
