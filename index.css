@@ -1,62 +1,112 @@
-h1{
-    margin-left: 5px;
-    font-weight: normal;
-    font-size: 35px;
-    color: rgb(255, 255, 255);
-    font-family: Arial;
-    text-align: center;
-}
-p{
-    color: rgb(255, 255, 255);
-    margin: 15px;
-    font-family: Georgia;
-    font-size: x-large;
-    text-align: justify;
-}
 body{
-    font-family: sans-serif;
-    background-image: url("abstract-5035370_1920.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
+    color: darkgray;
+    background-image: url("abstract-5035370_1920.jpg");
 }
+
 nav{
-    margin-top: 10px;
-    text-align: center;
-    margin-right: 100px;
-    margin-left: 100px;
-    border: 1px solid rgb(69, 69, 69);
-    border-radius: 10px;
-    background: transparent;
+    padding-right: 60px;
+    margin-top: 20px;
+    font-size: x-large;
+    background-color: transparent;
     backdrop-filter: blur(60px);
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 a{
-    text-decoration: none;
+    position: sticky;
+    margin-left: 15px;
     color: white;
-    font-size: xx-large;
-    padding-left: 20px;
-    margin-right: 20px;
+}
+
+p{
+    margin: 10px;
+    margin-right: 10px;
+    text-align: justify;
+    color: white;
+}
+
+h1{
+    text-align: left;
+    margin: 15px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+#balra{
+    text-align: center;
+}
+
+ul{
+    margin: 30px;
+    text-align: center;
+    display: inline-flex;
+}
+
+#logo{
+    margin-left: 0px;
+}
+
+#kosar{
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: inline;
+    background-color: transparent;
+    float: right;
+    backdrop-filter: blur(60px);
+    border-radius: 10px;
 }
 
 #szovegdoboz{
-    border-radius: 10px;
-    border: 1px solid rgb(69, 69, 69);
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
     background: transparent;
     backdrop-filter: blur(60px);
-    margin-left: 100px;
-    margin-right: 100px;
-    padding-bottom: 100px;
-    color: rgb(158, 144, 144);
-    margin-bottom: 20px;
-    text-align: left;
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#footerdunkashop{
+    padding-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+.footerahref{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    padding-left: 0px;
+}
+.footerahref:hover{
+    color: rgb(25, 196, 25);
+}
+#footerfelsovonal1{
+    border-top: solid 2px;
+    border-color: darkgray;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer-container {
+    text-align: center;
 }
 .footerclass1{
     margin: 0px;
-    background-color: rgb(94, 98, 100);
+    background-color: transparent;
+    backdrop-filter: blur(60px);
     padding-bottom: 45px;
 }
 .footerlogo{
@@ -65,39 +115,39 @@ a{
     margin: 0px 0px 0px 0px;
 }
 #footerfelsovonal{
-    border-top: solid 5px;
-    border-color: rgb(59, 59, 59);
+    border: solid 2px;
+    border-color: darkgray;
+    border-radius: 15px 0px;
 }
 #footerszoveg{
-    padding-top: 10px;
+    padding-top: 35px;
     margin-left: 20px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-#logo{
-    float:inline-start;
-    margin-top: 1px;
-    padding-right: 30px;
-}
-
-.fentebb{
+footer{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-bottom: 0;
-    margin-top: 500px;
-}
-
-#bejelentkezes{
-    float: right;
-}
-
-#kosar{
-    float: right;
-    border-left: 1px solid rgb(255, 255, 255);
 }
 
 #kiberb{
     border-radius: 10px;
-    float: right;
-    margin: 15px;
+    margin-left: 5px;
+    float: right; 
 }
 
+.img-fluid{
+    max-width: 70%;
+    height: auto;
+}
+
+.navbar-toggler{
+    border-color: white;
+}
+
+li{
+    position: sticky;
+}
