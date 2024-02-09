@@ -1,0 +1,33 @@
+.kepformazas{
+    width: 300px;
+}
+#szovegdoboz{
+    border-radius: 10px;
+    border: 2px solid rgb(69, 69, 69);
+    background: transparent;
+    backdrop-filter: blur(60px);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 100px;
+    color: rgb(158, 144, 144);
+}
+.kozepre{
+    text-align: center;
+}
+.vásárlás {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#jobbra{
+    margin-left: 400px;
+}
+#balra1{
+    margin-right: 400px;
+}
