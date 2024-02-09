@@ -213,3 +213,80 @@ div.scrollmenu {
   div.scrollmenu a:hover {
     background-color: #777;
   }
+.szűrőár{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+.szűrőh1{
+    color: black;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+.szűrőháttér{
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 100px;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 0;
+    font-size: 10px;
+    padding-left: 15px;
+}
+.szűrőháttér a  {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+    margin-left: 3px;
+  }
+  .szűrőháttér a:hover, .dropdown-btn:hover {
+    color: #f1f1f1;
+  }
+  #szűrőegész{
+    margin-top: 25px;
+  }
+  .dropdown-container {
+    display: none;
+    padding-left: 8px;
+  }
+  #szűrőfontsize{
+    font-size: 15px;
+  }
+  .dropdown-btn{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+    margin-left: 3px;
+  }
+.szűrőgombgomb{
+    font-size: small;
+    color: black;
+    text-decoration: none;
+}
