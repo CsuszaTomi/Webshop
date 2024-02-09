@@ -6,6 +6,7 @@ body{
     background-size: cover;
     color: darkgray;
     background-image: url("abstract-5035370_1920.jpg");
+
 }
 
 nav{
@@ -226,6 +227,8 @@ div.scrollmenu {
     width: calc(25% - 20px); /* 25% width for each product card with margins */
     margin-bottom: 20px;
     text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
 }
 .termék-kép {
     max-width: 100%;
