@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="videokartya.css">
     <link rel="stylesheet" href="szamitogep.css">
 </head>
@@ -27,43 +26,29 @@
             </ul>
         </div>
     </nav>
-    <div id="spacebetweenszamitogep"> 
-        <h1 id="cim">Háttértárak</h1>
-        <div class="termékek">
-            <div id="jobbra" class="termék-ablak">
-                <img class="termék-kép" src="SSD1.png" alt="SSD">
-                <h2>SSD</h2>
-                    <a class="vásárlás" href="SSD.html">Megnézem</a>
+
+        <div class="container">
+        <h1 class="mt-4 kozepre">Háttértárak</h1>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card mb-5 termék-ablak">
+                    <img class="card-img-top termék-kép" src="SSD1.png" alt="SSD">
+                    <div class="card-body">
+                        <h2 class="card-title">SSD</h2>
+                        <a href="ssd.html" class="btn vásárlás">Megnézem</a>
                     </div>
-                    <div id="balra1" class="termék-ablak">
-                    <img class="termék-kép" src="HDD.png" alt="HDD">
-                    <h2>HDD</h2>
-                    <div>
-                    <a id="kuki" class="vásárlás" href="HDD.html">Megnézem</a>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card mb-5 termék-ablak">
+                    <img class="card-img-top termék-kép" src="HDD.png" alt="HDD">
+                    <div class="card-body">
+                        <h2 class="card-title">HDD</h2>
+                        <a href="HDD.html" class="btn vásárlás">Megnézem</a>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-
-    <script>
-        var dropdown = document.getElementsByClassName("dropdown-btn");
-        var i;
-        
-        for (i = 0; i < dropdown.length; i++) {
-          dropdown[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var dropdownContent = this.nextElementSibling;
-            if (dropdownContent.style.display === "block") {
-              dropdownContent.style.display = "none";
-            } else {
-              dropdownContent.style.display = "block";
-            }
-          });
-        }
-        </script>
-        
-    <div>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     </div>
 
     <footer>
