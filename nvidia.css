@@ -253,3 +253,15 @@ div.scrollmenu {
     margin-left: 25px;
     margin-right: 25px;
 }
+.visszagomb {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 65px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    color: white;
+}
