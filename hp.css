@@ -1,4 +1,4 @@
-.termék-ablak{
+.termék_ablak{
     background-color: transparent;
     backdrop-filter: blur(60px);
     border: 1px solid #ccc;
@@ -11,7 +11,7 @@
     display: inline-block
 }
 
-.termék-kép{
+.termék_kép{
    width: calc(100% - 20px); /* 100% width for each product card with margins */
    height: calc(100% - 20px); /* 100% height for each product card with margins */
 }
