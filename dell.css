@@ -10,6 +10,7 @@
     text-align: center;
     padding-bottom: 80px;
     margin-right: 75px;
+    display: inline-block;
 }
 
 img{
@@ -27,10 +28,6 @@ button{
     border-radius: 10px;
     width: 120px;
     height: 40px;
-}
-
-#osszestermek{
-    display: inline-flex;
 }
 
 
