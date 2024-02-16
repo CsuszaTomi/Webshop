@@ -16,6 +16,18 @@ img{
     margin: 20px;
 }
 
+.delllogo{
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+button{
+    border: 2px solid black; 
+    background-color: blue;
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+}
 
 #osszestermek{
     display: inline-flex;
@@ -24,10 +36,6 @@ img{
 
 body{
     text-align: center;
-}
-
-.button{
-    border-radius: 10px;
 }
 a{
     font-size: xx-large;
