@@ -93,6 +93,7 @@ h1{
 }
 .footerahref:hover{
     color: rgb(25, 196, 25);
+    text-decoration: none;
 }
 #footerfelsovonal1{
     border-top: solid 2px;
@@ -261,7 +262,7 @@ div.scrollmenu {
     background-color: transparent;
     backdrop-filter: blur(30px);
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 30px;
     margin-right: 75px;
 }
 
@@ -291,3 +292,12 @@ body{
     margin-left: 15px;
     color: white;
 }
+#amdkozepre{
+    text-align: center;
+}
+.amdnev{
+    font-size: large;
+    font-size: 30px;
+
+}
+
