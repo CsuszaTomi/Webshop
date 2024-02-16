@@ -292,6 +292,9 @@ body{
     margin-left: 15px;
     color: white;
 }
+#procia:hover{
+    color: black;
+}
 #amdkozepre{
     text-align: center;
 }
