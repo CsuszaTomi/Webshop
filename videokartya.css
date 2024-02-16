@@ -43,11 +43,12 @@
     border: 1px solid #ccc;
     border-radius: 5px;
     width: 65px;
-    margin-top: 20px;
+    margin-top: 100px;
     margin-left: 50px;
     margin-bottom: 20px;
     text-align: center;
     background: transparent;
     backdrop-filter: blur(60px);
     color: white;
+    position: fixed;
 }
