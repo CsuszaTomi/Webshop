@@ -251,15 +251,18 @@ div.scrollmenu {
 #cim{
     text-align: center;
 }
-.visszagomb {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 65px;
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    text-align: center;
-    background: transparent;
-    backdrop-filter: blur(60px);
+#id{
+    text-align: left;
+    color: lime;
+    display: block;
+    font-weight: bolder;
+}
+#idh2{
     color: white;
+}
+#id5{
+    text-align: left;
+    color: red;
+    display: block;
+    font-weight: bolder;
 }
