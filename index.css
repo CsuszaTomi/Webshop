@@ -57,7 +57,7 @@ p{
 }
 
 h1{
-    text-align: left;
+    text-align: center;
     margin: 15px;
     margin-bottom: 40px;
     color: white;
@@ -167,9 +167,6 @@ footer{
     border-radius: 10px;
 }
 
-h1{
-    text-align: center;
-}
 
 #ajanlatok{
     display: inline-flex;
@@ -369,16 +366,4 @@ div.scrollmenu {
 #spaceaszelenalkatresz{
     margin-right: 25px;
     margin-left: 25px;
-}
-.visszagomb {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 65px;
-    margin-top: 20px;
-    margin-left: 50px;
-    margin-bottom: 20px;
-    text-align: center;
-    background: transparent;
-    backdrop-filter: blur(60px);
-    color: white;
 }
