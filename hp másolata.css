@@ -3,7 +3,7 @@
     backdrop-filter: blur(60px);
     border: 1px solid #ccc;
     border-radius: 5px;
-    width: calc(260px); /* 20% width for each product card with margins */
+    width: calc(20% - 20px); /* 20% width for each product card with margins */
     margin-bottom: 50px;
     margin-left: 45px;
     margin-right: 45px;
