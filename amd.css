@@ -252,10 +252,10 @@ div.scrollmenu {
 #cim{
     text-align: center;
 }
-.termek{
-    margin-right: 50px;
+.termek {
+    margin-bottom: 20px;
     border: 2px solid white;
-    width: 300px;
+    width: 100%;
     border-radius: 10px;
     margin: 10px;
     color: white;
@@ -263,11 +263,13 @@ div.scrollmenu {
     backdrop-filter: blur(30px);
     text-align: center;
     padding-bottom: 30px;
-    margin-right: 75px;
+    overflow: hidden; 
 }
 
-img{
-    margin: 20px;
+.img {
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto; 
 }
 
 
@@ -286,20 +288,19 @@ body{
 .button{
     border-radius: 10px;
 }
-#procia{
+#procia {
     font-size: xx-large;
     position: sticky;
     margin-left: 15px;
     color: white;
 }
-#procia:hover{
+#procia:hover {
     color: black;
 }
 #amdkozepre{
     text-align: center;
 }
-.amdnev{
-    font-size: large;
+.amdnev {
     font-size: 30px;
-
 }
+
