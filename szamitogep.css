@@ -76,6 +76,19 @@ h1{
     margin-right: 10px;
     margin-left: 10px;
 }
+#szovegdoboz2{
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 600px;
+    margin-left: 600px;
+    list-style: none;
+}
 #footerdunkashop{
     padding-bottom: 50px;
     font-family: Arial, Helvetica, sans-serif;
