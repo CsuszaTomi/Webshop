@@ -1,3 +1,17 @@
+.visszagomb {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    color: white;
+    position: fixed;
+    font-size: large;
+}
 .termék_ablak{
     background-color: transparent;
     backdrop-filter: blur(60px);
