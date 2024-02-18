@@ -1,4 +1,18 @@
-body{
+
+.visszagomb {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    color: white;
+    position: fixed;
+    font-size: large;
+}body{
     overflow-x: hidden;
     margin: auto;
     background-repeat: no-repeat;
