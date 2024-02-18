@@ -222,16 +222,16 @@ div.scrollmenu {
     justify-content: space-between;
     margin-bottom: 20px;
 }
-.termék-ablak {
+.termek-ablak {
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 30px; /* Nagyobb margó a kártyák alatt */
     text-align: center;
     background: transparent;
     backdrop-filter: blur(60px);
     flex: 1;
-    margin: 0 10px;
+    margin: 0px 10px;
 }
 .termék-kép {
     max-width: 100%;
@@ -264,6 +264,7 @@ div.scrollmenu {
     text-align: center;
     padding-bottom: 30px;
     overflow: hidden; 
+    
 }
 
 .img {
@@ -303,4 +304,11 @@ body{
 .amdnev {
     font-size: 30px;
 }
-
+.col-lg-2 {
+    margin-bottom: 20px;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+.container-xl {
+    max-width: 3500px; /* Vagy adj meg egy másik értéket, ami megfelelő számodra */
+}
