@@ -1,17 +1,3 @@
-.visszagomb {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 60px;
-    margin-top: 50px;
-    margin-left: 50px;
-    margin-bottom: 50px;
-    text-align: center;
-    background: transparent;
-    backdrop-filter: blur(60px);
-    color: white;
-    position: fixed;
-    font-size: large;
-}
 body{
     overflow-x: hidden;
     margin: auto;
@@ -107,6 +93,7 @@ h1{
 }
 .footerahref:hover{
     color: rgb(25, 196, 25);
+    text-decoration: none;
 }
 #footerfelsovonal1{
     border-top: solid 2px;
@@ -233,20 +220,22 @@ div.scrollmenu {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-bottom: 20px;
 }
-.termék-ablak {
+.termek-ablak {
     border: 1px solid #ccc;
     border-radius: 5px;
     padding: 10px;
-    width: calc(25% - 20px); 
-    margin-bottom: 20px;
+    margin-bottom: 30px; 
     text-align: center;
     background: transparent;
     backdrop-filter: blur(60px);
+    flex: 1;
+    margin: 0px 20px;
 }
 .termék-kép {
-    max-width: 300px;
-    height: 160px;
+    max-width: 100%;
+    height: auto;
     border-radius: 5px;
 }
 .vásárlás {
@@ -263,7 +252,53 @@ div.scrollmenu {
 #cim{
     text-align: center;
 }
-#spacebetweenszamitogep{
-    margin-left: 25px;
-    margin-right: 25px;
+.termek {
+    margin-bottom: 10px;
+    border: 2px solid white;
+    width: 100%;
+    border-radius: 10px;
+    margin: 15px;
+    color: white;
+    background-color: transparent;
+    backdrop-filter: blur(30px);
+    text-align: center;
+    padding-bottom: 30px;
+    overflow: hidden; 
+}
+
+.img {
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto; 
+}
+
+
+#osszestermek{
+    display: inline-flex;
+    margin-left: 30px;
+}
+.osszestermek1{
+    margin-right: 15px;
+}
+
+body{
+    text-align: center;
+}
+
+.button{
+    border-radius: 10px;
+}
+#amdkozepre{
+    text-align: center;
+}
+.amdnev {
+    font-size: 30px;
+}
+.col-lg-2 {
+    margin-bottom: 20px;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+.container-xl {
+    max-width: 3500px; 
 }
