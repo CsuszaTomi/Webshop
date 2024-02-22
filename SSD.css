@@ -49,3 +49,94 @@ a{
     margin-left: 15px;
     color: white;
 }
+.termék-ablak {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+   
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    flex: 1;
+    margin: 0 10px;
+}
+.termék-kép {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.vásárlás {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#cim{
+    text-align: center;
+}
+.termek {
+    margin-bottom: 20px;
+    border: 2px solid white;
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    background-color: transparent;
+    backdrop-filter: blur(30px);
+    text-align: center;
+    padding-bottom: 30px;
+    overflow: hidden; 
+    
+}
+
+.img {
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto; 
+}
+
+
+#osszestermek{
+    display: inline-flex;
+    margin-left: 30px;
+}
+.osszestermek1{
+    margin-right: 15px;
+}
+
+body{
+    text-align: center;
+}
+
+.button{
+    border-radius: 10px;
+}
+#procia {
+    font-size: xx-large;
+    position: sticky;
+    margin-left: 15px;
+    color: white;
+}
+#procia:hover {
+    color: black;
+}
+#amdkozepre{
+    text-align: center;
+}
+.amdnev {
+    font-size: 30px;
+}
+.col-lg-2 {
+    margin-bottom: 20px;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+.container-xl {
+    max-width: 3500px; /* Vagy adj meg egy másik értéket, ami megfelelő számodra */
+}
