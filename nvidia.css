@@ -160,83 +160,8 @@ footer{
     border-radius: 10px;
 }
 
-#vkartya1{
-    background-color: transparent;
-    backdrop-filter: blur(60px);
-    margin-left: 30px;
-    width: 350px;
-    border-radius: 10px;
-}
-
 h1{
     text-align: center;
-}
-
-#ajanlatok{
-    display: inline-flex;
-    width: 1520px; 
-}
-
-
-
-div.scrollmenu {
-    background-color: transparent;
-    backdrop-filter: blur(60px);
-    overflow: none;
-    white-space: nowrap;
-  }
-  
-  div.scrollmenu a {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-  }
-
-  div.scrollmenu {
-    color: transparent;
-    backdrop-filter: blur(60px);
-    overflow: auto;
-    white-space: nowrap;
-  }
-  
-  div.scrollmenu a {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    padding: 14px;
-    text-decoration: none;
-  }
-  
-  div.scrollmenu a:hover {
-    background-color: #777;
-  }
-
- #dell{
-    margin-left: 20px;
-    
- }
- .termékek {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-bottom: 20px;
-}
-.termek-ablak {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 30px; 
-    text-align: center;
-    background: transparent;
-    backdrop-filter: blur(60px);
-    flex: 1;
-    margin: 0px 20px;
-}
-.termék-kép {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
 }
 .vásárlás {
     background-color: #4CAF50;
@@ -244,7 +169,6 @@ div.scrollmenu {
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
     border-radius: 5px;
     margin-top: 10px;
     cursor: pointer;
@@ -252,18 +176,16 @@ div.scrollmenu {
 #cim{
     text-align: center;
 }
-.termek {
-    margin-bottom: 10px;
+.termek{
     border: 2px solid white;
-    width: 100%;
+    width: 300px;
     border-radius: 10px;
-    margin: 15px;
+    margin: 10px;
     color: white;
     background-color: transparent;
     backdrop-filter: blur(30px);
     text-align: center;
     padding-bottom: 30px;
-    overflow: hidden; 
 }
 
 .img {
@@ -271,16 +193,6 @@ div.scrollmenu {
     max-width: 100%; 
     height: auto; 
 }
-
-
-#osszestermek{
-    display: inline-flex;
-    margin-left: 30px;
-}
-.osszestermek1{
-    margin-right: 15px;
-}
-
 body{
     text-align: center;
 }
@@ -290,15 +202,19 @@ body{
 }
 #amdkozepre{
     text-align: center;
+    
 }
 .amdnev {
     font-size: 30px;
 }
-.col-lg-2 {
+/*.col-lg-3 {
     margin-bottom: 20px;
     margin-left: 20px; 
     margin-right: 20px; 
-}
+}*/
 .container-xl {
     max-width: 3500px; 
+}
+.upimg{
+    margin-top: 20px; 
 }
