@@ -265,20 +265,22 @@ div.scrollmenu {
     text-align: center;
 }
 #id{
-    text-align: left;
+ 
     color: lime;
     display: block;
     font-weight: bolder;
+    text-align: center;
 }
 #idh2{
     color: white;
     text-align: center;
+    padding-bottom: 10px;
 }
 #id5{
-    text-align: left;
     color: red;
     display: block;
     font-weight: bolder;
+    text-align: center;
 }
 .visszagomb {
     border: 1px solid #ccc;
