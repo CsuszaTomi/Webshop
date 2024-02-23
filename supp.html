@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support Website</title>
+    <link rel="stylesheet" href="supp.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
+        <a href="index.html" id="logo"><img width="150px" src="LogoNavBar.png" alt=""></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse sticky-top" id="navbarNav">
+            <div class="navbar-nav ml-auto" id="balra">
+                <li class=""><a href="szamitogep.html">Számítógépek</a></li>
+                <li class=""><a href="alkatresz.html">Alkatrészek</a></li>
+                <li class=""><a href="#">DunkaCoin</a></li>
+            </div>
+            <ul class="navbar-nav ml ml-auto" id="kosar">
+                <a href="index.php" id="bejelentkezes"><img width="30px" src="login.png" alt=""></a>
+                <a href="#" id=""><img width="30px" src="cart-2655083_1920.png" alt=""></a>
+            </ul>
+            
+        </div>
+    </nav>
+        <h1>Tech Support</h1>
+   <h3> A technikai támogatás olyan szolgáltatás, amely segít az embereknek a technikai problémák megoldásában vagy iránymutatást nyújt a technológiai eszközök használatához. Ezek a problémák lehetnek egyszerű számítógép-, szoftver- vagy elektronikai eszközök hibaelhárításával kapcsolatosak, de akár speciális tudást és képzést igénylő bonyolultabb problémák is lehetnek.</h3>
+    <main>
+        <section class="container">
+            <h2>Írja le a problémáját:</h2>
+            <form id="problemForm">
+                <textarea id="problem" placeholder="Mondja el mi a baj..."></textarea>
+                <button id="alarmButton">Elküldés</button>
+            </form>
+            <div id="response"></div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Support oldal</p>
+    </footer>
+    <footer>
+        <div>
+            <div id="footerfelsovonal" class="footerclass1">
+                <div>
+                            <div class="footerlogo">
+                                <img src="Logo.png" width="150px" style="margin-top: 20px;" style="margin-bottom: 5px;">
+                            </div>
+                        <p id="footerdunkashop">
+                            
+                        </p>
+                        <div id="footerfelsovonal1"></div>
+                        <div class="footer-container">
+                            <a href="kapcsolat.html" class="footerahref">Kapcsolat</a> 
+                            <a href="impresszum.html" class="footerahref">Impresszum</a> 
+                            <a href="nyilatkozat.html" class="footerahref">Jogi nyilatkozat</a> 
+                            <a href="adatvedelem.html" class="footerahref">Adatvédelem</a> 
+                        </div>
+                    <p style="text-align: center;" id="footerszoveg">
+                        &copy; Dunka shop 2024 Ez a Weboldal csak tanulmányi célokból jött létre.
+                    </p>
+                </div>
+            </div>
+        </div>
+        </footer>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>   
+        <script>      
+    var alarmButton = document.getElementById('alarmButton'); 
+    alarmButton.addEventListener('click', function() {
+      
+      alert('Válaszát rögzítettük!');
+    });
+    </script>
+
+
+        
+</body>
+</html>
