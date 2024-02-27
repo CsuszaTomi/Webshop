@@ -233,6 +233,31 @@ body{
     border: 2px solid;
     padding: 10px;
     border-radius: 10px;
-    margin-right: 10px;
-    margin-left: 10px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+#szovegdoboz3{
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+#szovegdoboz4{
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 700px;
+    margin-left: 700px;
 }
