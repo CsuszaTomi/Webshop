@@ -1,0 +1,314 @@
+body{
+    overflow-x: hidden;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: darkgray;
+    background-image: url("abstract-5035370_1920.jpg");
+
+}
+
+nav{
+    padding-right: 60px;
+    margin-top: 20px;
+    font-size: x-large;
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    margin-right: 10px; 
+    margin-left: 10px;
+}
+
+ul{
+    margin: 30px;
+    text-align: center;
+    display: inline-flex;
+}
+
+#logo{
+    margin-left: 0px;
+}
+
+#kosar{
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: inline;
+    background-color: transparent;
+    float: right;
+    backdrop-filter: blur(60px);
+    border-radius: 10px;
+}
+
+a{
+    font-size: xx-large;
+    position: sticky;
+    margin-left: 15px;
+    color: white;
+}
+
+p{
+    font-size: larger;
+    margin: 10px;
+    margin-right: 10px;
+    text-align: left;
+    color: white;
+}
+
+h1{
+    text-align: left;
+    margin: 15px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+#szovegdoboz{
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#footerdunkashop{
+    padding-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+}
+.footerahref{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: Arial;
+    font-size: 20px;
+    margin-top: 10px;
+    display: inline-block;
+    padding-left: 0px;
+}
+.footerahref:hover{
+    color: rgb(25, 196, 25);
+    text-decoration: none;
+}
+#footerfelsovonal1{
+    border-top: solid 2px;
+    border-color: darkgray;
+    margin-left: 25px;
+    margin-right: 25px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer-container {
+    text-align: center;
+}
+.footerclass1{
+    margin: 0px;
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    padding-bottom: 45px;
+}
+.footerlogo{
+    width: 250px;
+    float:right;
+    margin: 0px 0px 0px 0px;
+}
+#footerfelsovonal{
+    border: solid 2px;
+    border-color: darkgray;
+    border-radius: 15px 0px;
+}
+#footerszoveg{
+    padding-top: 35px;
+    margin-left: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer{
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 0;
+}
+
+#kiberb{
+    border-radius: 10px;
+    margin-left: 5px;
+    float: right; 
+}
+
+.img-fluid{
+    max-width: 70%;
+    height: auto;
+}
+
+.navbar-toggler{
+    border-color: white;
+}
+
+#ajanlat1{
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    margin: 10px;
+    width: 350px;
+    border: 2px solid darkgray;
+    border-radius: 10px;
+}
+
+#vkartya1{
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    margin-left: 30px;
+    width: 350px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+#ajanlatok{
+    display: inline-flex;
+    width: 1520px; 
+}
+
+
+
+div.scrollmenu {
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    overflow: none;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  div.scrollmenu {
+    color: transparent;
+    backdrop-filter: blur(60px);
+    overflow: auto;
+    white-space: nowrap;
+  }
+  
+  div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+  
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+
+ #dell{
+    margin-left: 20px;
+    
+ }
+ .termékek {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.termek-ablak {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 30px; /* Nagyobb margó a kártyák alatt */
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    flex: 1;
+    margin: 0px 10px;
+}
+.termék-kép {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+.vásárlás {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+#cim{
+    text-align: center;
+}
+.termek {
+    margin-bottom: 20px;
+    border: 2px solid white;
+    width: 100%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    background-color: transparent;
+    backdrop-filter: blur(30px);
+    text-align: center;
+    padding-bottom: 30px;
+    overflow: hidden; 
+    
+}
+
+.img {
+    margin: 0 auto; 
+    max-width: 100%; 
+    height: auto; 
+}
+
+
+#osszestermek{
+    display: inline-flex;
+    margin-left: 30px;
+}
+.osszestermek1{
+    margin-right: 15px;
+}
+
+body{
+    text-align: center;
+}
+
+.button{
+    border-radius: 10px;
+}
+#procia {
+    font-size: xx-large;
+    position: sticky;
+    margin-left: 15px;
+    color: white;
+}
+#procia:hover {
+    color: black;
+}
+#intelkozepre{
+    text-align: center;
+}
+.intelnev {
+    font-size: 30px;
+}
+.col-lg-2 {
+    margin-bottom: 20px;
+    margin-left: 20px; 
+    margin-right: 20px; 
+}
+.container-xl {
+    max-width: 3500px; /* Vagy adj meg egy másik értéket, ami megfelelő számodra */
+}
