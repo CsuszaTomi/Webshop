@@ -212,11 +212,9 @@ body{
 .ssdnev {
     font-size: 30px;
 }
-/*.col-lg-2 {
-    margin-bottom: 20px;
-    margin-left: 20px; 
-    margin-right: 20px; 
-}*/
+.col-lg-3{
+    padding-left: 75px;
+}
 .container-xl {
     max-width: 3500px;
 }
