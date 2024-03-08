@@ -1,0 +1,46 @@
+.visszagomb {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 60px;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    color: white;
+    position: fixed;
+    font-size: large;
+}
+.termék_ablak{
+    background-color: transparent;
+    backdrop-filter: blur(60px);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: calc(260px); /* 20% width for each product card with margins */
+    margin-bottom: 50px;
+    margin-left: 45px;
+    margin-right: 45px;
+    text-align: center;
+    display: inline-block
+}
+
+.termék_kép{
+   height: 150px;
+   text-align: center;
+
+}
+
+
+.vásárlás{
+    background-color: blue;
+}
+
+button{
+    border: 2px solid black;
+    background-color: rgb(1,82,148);
+    border-radius: 10px;
+    width: 120px;
+    height: 40px;
+    margin-bottom: 20px;
+}
