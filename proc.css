@@ -1,0 +1,32 @@
+#szovegdoboz1{
+    text-align: left;
+    margin-top: 10px;
+    text-align: center;
+    background: transparent;
+    backdrop-filter: blur(60px);
+    border: 2px solid;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 170px;
+    margin-left: 170px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+h2{
+    text-align: center;
+    color: wheat;
+  }
+li{
+    color: white;
+}
+h3{
+    text-align: center;
+    color: wheat;
+  }
+
+  #i{
+    text-align: center;
+   } 
