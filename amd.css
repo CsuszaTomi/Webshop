@@ -216,23 +216,6 @@ div.scrollmenu {
     margin-left: 20px;
     
  }
- .termékek {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-bottom: 20px;
-}
-.termek-ablak {
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    padding: 10px;
-    margin-bottom: 30px; /* Nagyobb margó a kártyák alatt */
-    text-align: center;
-    background: transparent;
-    backdrop-filter: blur(60px);
-    flex: 1;
-    margin: 0px 10px;
-}
 .termék-kép {
     max-width: 100%;
     height: auto;
@@ -252,19 +235,16 @@ div.scrollmenu {
 #cim{
     text-align: center;
 }
-.termek {
-    margin-bottom: 20px;
+.termek{
     border: 2px solid white;
-    width: 100%;
+    width: 300px;
     border-radius: 10px;
-    margin: 10px;
+    margin: 10px auto;
     color: white;
     background-color: transparent;
     backdrop-filter: blur(30px);
     text-align: center;
     padding-bottom: 30px;
-    overflow: hidden; 
-    
 }
 
 .img {

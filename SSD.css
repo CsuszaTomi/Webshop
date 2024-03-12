@@ -178,9 +178,9 @@ h1{
 }
 .termek{
     border: 2px solid white;
-    width: 350px;
+    width: 300px;
     border-radius: 10px;
-    margin: 10px;
+    margin: 10px auto;
     color: white;
     background-color: transparent;
     backdrop-filter: blur(30px);
@@ -211,9 +211,6 @@ body{
 }
 .ssdnev {
     font-size: 30px;
-}
-.col-lg-3{
-    padding-left: 75px;
 }
 .container-xl {
     max-width: 3500px;
